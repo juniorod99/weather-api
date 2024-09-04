@@ -8,7 +8,7 @@
 
 ## 📚 Projeto
 
-Uma lading page desenvolvida com o intuito de praticar as tecnologias e responsividade
+Um site de previsão de tempo e temperatura das cidades.
 
 ## 💼 Tecnologias utilizadas
 
@@ -17,9 +17,9 @@ Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
 - HTML;
 - CSS;
 - JavaScript;
-- JQuery;
+- Weather API;
 - Git e Github.
 
 ## 🤯 Aprendizado
 
-Com o desenvolvimento desse projeto, aprendi a tecnicas de posicionamento com CSS e boas formas de utilizar Flexbox e Grid, e também a fazer a manipulação do DOM com JQuery.
+Com o desenvolvimento desse projeto, aprendi como utilizar o JavaScript para fazer requisições API e manipular o DOM para exibir essas informações.
