@@ -2,7 +2,7 @@
   Weather App
 </h1>
 
-![Resultado final do projeto](.github/preview.png)
+![Resultado final do projeto](src/images/preview.png)
 
 <h4 align="center"><a href="https://juniorod99.github.io/weather-api/" target="_blank">Clique para visitar o projeto</a></h4>
 
